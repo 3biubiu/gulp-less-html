@@ -1,0 +1,6 @@
+.wrap {
+  color: #666;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
